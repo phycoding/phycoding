@@ -6,12 +6,12 @@ Welcome to my Github profile!
 About Me
 --------
 
-My name is Puspak Meher, and I am currently pursuing my Integrated M.Sc in Applied Physics. I am interested in Machine Learning, Computer Vision, and Data Science. I have completed several internships and projects related to these fields and have worked with companies such as Feynn Labs, Omdena, and The Spark Foundation.
+My name is Puspak Meher, and I am currently pursuing my Integrated M.Sc in Applied Physics. I am interested in Machine Learning, Computer Vision, and Data Science. I have completed several internships and projects related to these fields and have worked with companies such as Feynn Labs, Omdena, and Solulab.
 
 Projects
 --------
 
-Here are some of the projects that I have worked on:
+Here are some of the personal projects that I have worked on:
 
 -   Lungs infection Detection caused by COVID 19 Virus: Used Unet and Segnet models with different hyperparameters to detect lungs infection caused by COVID-19 virus. Compared the accuracy between these models. The code for this project can be found [here](https://github.com/phycoding/COVID19_Infection).
 
