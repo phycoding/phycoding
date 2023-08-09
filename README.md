@@ -34,7 +34,7 @@ Here are some of my technical skills:
 -   Computer vision: OpenCV, Image processing
 -   Data analysis: Pandas, Numpy
 -   Data visualization: Matplotlib, Seaborn, Plotly, Dash
--   Databases: MongoDB, SQL
+-   Databases: MongoDB, SQL, Postgres
 
 Contact Me
 ----------
