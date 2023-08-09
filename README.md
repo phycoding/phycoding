@@ -6,7 +6,8 @@ Welcome to my Github profile!
 About Me
 --------
 
-I am Puspak Meher, and I have completed my Masters in Applied Physics from OUTR. I am interested in Machine Learning, Computer Vision, NLP, Algorithm building and Data Science. 
+I am Puspak Meher. 
+I am interested in Machine Learning, Computer Vision, NLP, Algorithm building and Data Science. 
 
 Projects
 --------
