@@ -1,5 +1,27 @@
 
-<h2> नमस्ते (Namaste)🙏🏻, I'm Puspak Meher! <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI3YTJ0eDYybDVhMmo4YXBvazhmaWlvbTV0eWoxYWFtcDlsNTllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvEUbsayyUlcPm41Tl/giphy.gif" width="50"></h2>
+<h2> नमस्ते (Namaste)🙏🏻, I'm Puspak Meher
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI3YTJ0eDYybDVhMmo4YXBvazhmaWlvbTV0eWoxYWFtcDlsNTllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvEUbsayyUlcPm41Tl/giphy.gif" width="50"></h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/ML-Scikit--learn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=keras&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Data-Pandas-informational?style=flat&logo=pandas&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Data-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Visualization-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Visualization-Seaborn-informational?style=flat&logo=seaborn&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Visualization-Plotly-informational?style=flat&logo=plotly&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Database-Postgres-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a" />
+  <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
+</p>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmenNsN2tzZjNoaGM1enc3Nmc3amFmcHdweGc4djRtdTUwOWgxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" width="230">
 <p><em>Machine Learning, AI and Data Science
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -10,6 +32,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://puspakmeher.com/)](https://puspakmeher.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=phycoding)
+
 
 ### 📫 Like to meet me?
 
