@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/Cloud-Google_Cloud-informational?style=flat&logo=google-cloud&logoColor=white&color=2bbc8a" />
   <img src="https://img.shields.io/badge/Container-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" />
 </p>
+<h1></h1>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmenNsN2tzZjNoaGM1enc3Nmc3amFmcHdweGc4djRtdTUwOWgxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" width="230">
 <p><em>Machine Learning, AI and Data Science
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
