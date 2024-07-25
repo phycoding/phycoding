@@ -25,7 +25,7 @@
 <h1></h1>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFmenNsN2tzZjNoaGM1enc3Nmc3amFmcHdweGc4djRtdTUwOWgxeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E6EnvXLzCwnhV58V9l/giphy.gif" width="230">
 <p><em>Machine Learning, AI and Data Science
-</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?label=Follow)](https://twitter.com/intent/follow?screen_name=yourusername)
