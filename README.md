@@ -29,7 +29,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?label=Follow)](https://twitter.com/intent/follow?screen_name=yourusername)
-[![Linkedin: puspak-meher](https://img.shields.io/badge/-puspak--meher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/puspak-meher3/)](https://linkedin.com/in/puspak-meher3/)
+[![Linkedin: puspak-meher](https://img.shields.io/badge/-puspak--meher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/puspakmeher3/?_l=en_US)](https://www.linkedin.com/in/puspakmeher3/?_l=en_US)
 ![GitHub followers](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://puspakmeher.com/)](https://puspakmeher.com/)
 ![](https://visitor-badge.glitch.me/badge?page_id=phycoding)
