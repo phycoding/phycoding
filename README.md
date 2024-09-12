@@ -73,6 +73,17 @@ puspak = {
 }
 
 ```
+<hr/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phycoding&&theme=github-compact" alt="My GitHub activity graph"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phycoding&theme=github-dark" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phycoding&theme=dark&show_icons=true&include_all_commits=true" alt="phycoding"/>
+  
+ </a> </p>
+</p>
+
+<hr/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
