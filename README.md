@@ -76,10 +76,10 @@ puspak = {
 <hr/>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phycoding&&theme=github-compact" alt="My GitHub activity graph"/>
+ 
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=phycoding&theme=github-dark" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=phycoding&theme=dark&show_icons=true&include_all_commits=true" alt="phycoding"/>
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phycoding&&theme=github-compact" alt="My GitHub activity graph"/>
  </a> </p>
 </p>
 
