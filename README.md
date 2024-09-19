@@ -1,5 +1,5 @@
 
-<h2> नमस्ते (Namaste)🙏🏻, I'm Puspak Meher 
+<h2> नमस्ते [ନମସ୍କାର](Namaste)🙏🏻, I'm Puspak Meher 
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI3YTJ0eDYybDVhMmo4YXBvazhmaWlvbTV0eWoxYWFtcDlsNTllcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvEUbsayyUlcPm41Tl/giphy.gif" width="50"></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" />
